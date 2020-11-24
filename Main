@@ -1,0 +1,19 @@
+Public class Main {
+    public static void main(String[] args) {
+    
+    
+        Arbol arbol = new Arbol();
+        arbolito.insertar(18);
+        arbolito.insertar(12);
+        arbolito.insertar(2);
+        arbolito.insertar(1);
+        arbolito.recorrerInOrder();
+        arbolito.encontrar(3);
+        arbolito.eliminar(17);
+        arbolito.recorrerInOrder();
+        arbolito.recorrerPostOrder();
+        arbolito.recorrerPreOrder();
+        
+        
+    }
+}
