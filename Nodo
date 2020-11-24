@@ -1,0 +1,9 @@
+Public class Nodo {
+
+    int dato;
+    int color = 0;
+    Nodo izquierda = null;
+    Nodo derecha = null;
+    Nodo padre = null;
+    
+}
